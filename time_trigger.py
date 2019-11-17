@@ -8,6 +8,7 @@ print("Hello, from Python Script!")
 t = time.localtime()
 current_time = time.strftime("%H:%M:%S", t)
 print("Current Time: ", current_time)
+print("now secondtime the code got executed")
 #-----------------------------------------------------
 
 # --------------------------------------------------------------------------------
